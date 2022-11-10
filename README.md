@@ -1,0 +1,2 @@
+# Game_of_life
+ Josh Meyers's version of John Conway's game of life
